@@ -1,5 +1,5 @@
 # dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+Repositório pré-requisito para o bootcamp Banco Pan Developer. Desafio NoSql, banco de dados dynamodb.
 
 ### Serviço utilizado
   - Amazon DynamoDB
